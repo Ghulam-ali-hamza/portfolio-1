@@ -1,5 +1,5 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+//import Img from "next/image";
+//import styles from "./page.module.css";
 import HomeContent from "@/components/HomeContent";
  
  
